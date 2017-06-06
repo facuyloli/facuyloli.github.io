@@ -354,9 +354,9 @@ $(document).ready(function() {
 	// 07. COUNTDOWN
 	//===================================================================================
 	var theday = new Date();
-	theday = new Date("December 3, 2016 21:00:00 GMT -300");
+	theday = new Date("August 26, 2017 15:00:00 GMT -300");
 
-	theday = new Date(2016, 11, 3, 21);
+	theday = new Date(2017, 7, 26, 15);
 
 	var today = new Date();
 
