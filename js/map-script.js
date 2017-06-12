@@ -11,15 +11,15 @@
 	//INITIALIZE MAP
 	function initialize() {
 		var catedral = {lat: -34.46700, lng: -58.50921};
-		var salon = {lat: -34.44631, lng: -58.52280};
+		var salon = {lat: -34.4136827, lng: -58.7179776};
 		var civil = {lat: -34.47381, lng: -58.51235};
 
-		var center = {lat: (-34.47381-34.44631)/2, lng: (-58.51235-58.52280)/2};
+		var center = {lat: (-34.47381-34.4136827)/2, lng: (-58.51235-58.7179776)/2};
 
 		//DEFINE MAP OPTIONS
 		//=======================================================================================
   		var mapOptions = {
-				zoom: 14,
+				zoom: 12,
 				mapTypeId: google.maps.MapTypeId.ROADMAP,
 				center: center, //new google.maps.LatLng(-34.4670016, -58.5097596),
 				panControl: true,
