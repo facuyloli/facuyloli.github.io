@@ -1037,7 +1037,7 @@ img.with-border{
 .slide-title{
 	display: table-cell;
 	text-align:center;
-    color:black;
+    color:white;
 }
 
 .slide-title h1, .slide-title h2, .slide-title h3,
@@ -1598,9 +1598,9 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 }
 
 .banner-text.light{
-	color: black;
-	border-top:medium double black;
-	border-bottom:medium double black;
+	color: white;
+	border-top:medium double white;
+	border-bottom:medium double white;
 }
 .banner-text.light2{
 	color: white;
@@ -1619,7 +1619,7 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 }
 
 .banner-text.light *{
-	color:black;
+	color:white;
 }
 .banner-text.light2 *{
 	color:white;
