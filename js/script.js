@@ -397,7 +397,7 @@ $(document).ready(function() {
 	//------------------------------------------------------------------------------
 	if ($("#gift-registry").length){
     	$("#gift-registry").owlCarousel({
-			items : 3,
+			items : 2,
 			autoPlay: 2000,
 			stopOnHover: true,
 			pagination: true,
@@ -431,7 +431,7 @@ $(document).ready(function() {
 	//------------------------------------------------------------------------------
 	if ($("#registry-logo").length){
     	$("#registry-logo").owlCarousel({
-			items : 3,
+			items : 2,
 			autoPlay: 2000,
 			stopOnHover: true,
 			pagination: false,
