@@ -106,7 +106,7 @@ $(document).ready(function() {
 		document.getElementById("banner-date").style = "color: white";
 		document.getElementById("nombres").style = "color: white";
 		document.getElementById("banner-home").className += " whitey";
-		document.getElementById("homeimg").style = "background-image:url(images/12_mobile.jpg); background-position:0% 0%";
+		document.getElementById("homeimg").style = "background-image:url(images/12_mobile.jpg); background-position:25% 25%";
 		$('#homeimg').css('background-image', 'url(images/12_mobile.jpg)');
 		$('#nombres').css('color','white');
 		$('#banner-date').css('color','white');
